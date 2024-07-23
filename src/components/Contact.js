@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Contact = () => (
   <section id="contact">
     <h1>Contacto</h1>
